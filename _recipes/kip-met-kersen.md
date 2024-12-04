@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Kip met kersen
-tags: desert
+tags: dessert
 ---
 
 # Ingrediënten
