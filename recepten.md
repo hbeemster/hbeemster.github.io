@@ -7,5 +7,5 @@ permalink: /recepten/
 
 
 {% for recipe in site.recipes %}
-  [{{ recipe.title }}]({{ recipe.url }})
+  [{{ recipe.name }}]({{ recipe.url }})
 {% endfor %}

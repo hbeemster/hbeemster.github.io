@@ -4,15 +4,14 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Hi and welcome!
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+I'm a Software Engineer at [NKI]/[AvL] at the Radiotherapy department.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+My daily business is assuring that we produce high quality code.
 
+If I'm not working you can find me reading a book snugged up in my [favorite chair].
 
-[jekyll-organization]: https://github.com/jekyll
+[NKI]: https://www.nki.nl/
+[AvL]: https://www.avl.nl/
+[favorite chair] https://www.harvink.nl/product/splinter-laag-noten-opera/
