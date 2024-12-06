@@ -1,6 +1,6 @@
 ---
-layout: page
-title: Citroentaart
+layout: page  
+name: Citroentaart
 tags: gebak
 ---
 

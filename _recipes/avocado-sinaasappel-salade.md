@@ -1,6 +1,6 @@
 ---
 layout: page  
-title: Avocado Sinaasappel Salade
+name: Avocado Sinaasappel Salade
 tags: salade
 ---
 
@@ -16,12 +16,11 @@ tags: salade
 - gemalen peper
 
 # Stappen
-
 1. Ontvelde partjes van 2 sinaasappels in even grote stukken snijden
-1. Avocado in stukje, besprenkel met wat citroen sap
-1. Salade, sinaasappel en avocado in een schaal
-1. Van 1 sinaasappel met citroensap, knoflook, peper, mosterd en honing een dressing mixen
-1. Dressing over de salade gieten en mengen
+2. Avocado in stukje, besprenkel met wat citroen sap
+3. Salade, sinaasappel en avocado in een schaal
+4. Van 1 sinaasappel met citroensap, knoflook, peper, mosterd en honing een dressing mixen
+5. Dressing over de salade gieten en mengen
 
 # Materialen
  - Staafmixer

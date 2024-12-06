@@ -1,9 +1,8 @@
 ---
-layout: page
-title: Bieslooksaus
+layout: page  
+name: Bieslooksaus
 tags: saus
 ---
-
 
 # Ingrediënten
 - 3 eetlepels fijn gesneden bieslook
@@ -12,9 +11,7 @@ tags: saus
 - 1/2 blokje visbouillon
 - 250 ml slagroom
 
-
 # Stappen
-
 1. sjalot fruiten in boter
-1. visbouillon, water en slagroom toevoegen en reduceren tot de helft
-1. bieslook erbij en op smaak maken met peper en zout 
+2. visbouillon, water en slagroom toevoegen en reduceren tot de helft
+3. bieslook erbij en op smaak maken met peper en zout 
