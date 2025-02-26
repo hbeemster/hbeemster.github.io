@@ -10,7 +10,7 @@ tags: hoofdgerecht
 - 100 gr bloem  
 - 1 eetlepel engelse kerrie  
 - 500 ml melk  
-- klein potje kersen  
+- klein potje kersen, uitgelekt
 - 4 plakje bladerdeeg  
 - 250 gr geraspte kaas  
 - 150 gr kipfilet of Vega variant  
