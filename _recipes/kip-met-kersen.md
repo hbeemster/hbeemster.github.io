@@ -25,7 +25,7 @@ tags: hoofdgerecht
 6. melk beetje bij beetje toevoegen totdat saus ontstaat  
 7. bouillonblokje toevoegen  
 8. 10 min zachtjes pruttelen op plaatje, regelmatig roeren  
-9. kersen voor de zekerheid doorsnijden i.v.m. pitten  
+9. uitgelekte kersen voor de zekerheid doorsnijden i.v.m. pitten  
 10. kip in stukjes en aanbraden  
 11. kip en kersen toevoegen aan saus  
 12. randen ovenschaal licht invetten met olie/boter  
